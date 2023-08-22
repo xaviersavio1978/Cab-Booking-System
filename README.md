@@ -4,10 +4,9 @@
 ```
 - python/django/django-restframework
 - SQlite 3
-```
 
 #### Installation
-
+####### This is test server
 ##### clone or download and extract the project directory 
 1. Create a virtualenv (better to work in virtualenv)  
 ```
